@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Hackerank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tobi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobi-awosola/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tobi-Awosola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobi-awosola/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
