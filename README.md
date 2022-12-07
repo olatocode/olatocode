@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m currently building E-commerce web app.
+- :telescope: I’m currently building an E-commerce web app.
 
 - :seedling: I’m currently learning Blockchain.
 
