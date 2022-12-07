@@ -55,6 +55,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=olatocode&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olatocode&theme=dark&background=000000)](https://git.io/streak-stats)
 
