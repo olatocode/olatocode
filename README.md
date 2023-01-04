@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Hackerank and read tech articles on medium.
 
-- :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-TobiAwosola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobi-awosola/)
+- :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-tobiawosola-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobi-awosola)](https://www.linkedin.com/in/tobi-awosola)
 - #####  👨🏻‍💻 Portfolio : [olatocode.netlify.app](https://olatocode.netlify.app)
 ---
 
