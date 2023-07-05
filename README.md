@@ -27,7 +27,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m currently building an E-commerce web app.
 
-- :seedling: I’m currently learning Blockchain.
+- :seedling: I’m currently learning AWS serverless APIs.
 
 - :zap: In my free time, I solve problems on Hackerank, Read & Write Tech articles on Medium.
 
