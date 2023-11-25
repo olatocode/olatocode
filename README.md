@@ -29,7 +29,7 @@ I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: I’m currently learning AWS serverless APIs.
 
-- :zap: In my free time, I solve problems on Hackerank, Read & Write Tech articles on Medium.
+- :zap: In my leisure time, I solve problems on Hackerank, Read & Write Tech articles on Medium.
 
 - :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-tobiawosola-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobi-awosola)](https://www.linkedin.com/in/tobi-awosola)
 - #####  👨🏻‍💻 Portfolio : [https://olatocode.vercel.app](https://olatocode.vercel.app)
