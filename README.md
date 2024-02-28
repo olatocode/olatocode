@@ -25,11 +25,11 @@
 ### :man_technologist: About Me :
 
 I am a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m currently building an E-commerce web app.
+- :telescope: I’m currently learning ASP.NET Core web APIs.
 
-- :seedling: I’m currently learning AWS serverless APIs.
+- :seedling:  Let network and collaborate on software Development projects or ideas.
 
-- :zap: In my leisure time, I solve problems on Hackerank, Read & Write Tech articles on Medium.
+- :zap: In my leisure time, read and write Tech articles on Medium and also solve code challenges on Hackerank.
 
 - :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-tobiawosola-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobi-awosola)](https://www.linkedin.com/in/tobi-awosola)
 - #####  👨🏻‍💻 Portfolio : [https://olatocode.vercel.app](https://olatocode.vercel.app)
