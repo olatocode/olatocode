@@ -33,7 +33,7 @@
 </p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord_bright)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=olatocode&icon=0&color=1)](https://visitcount.itsvg.in)
