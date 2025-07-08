@@ -7,9 +7,9 @@
 
 # 💫 About Me :
 - 🔭 I’m currently building [Ajo App](https://ajoapp.vercel.app/).
-- 🌱 I’m currently learning more about PHP and Laravel.
+- 🌱 I’m currently learning more about the MCP server.
 - 🤔 I’m looking for help with my side projects.
-- 💬 Ask me about Nodejs or any tech-related stuff.
+- 💬 Ask me about Node.js or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
 - ⚡ Fun fact: I like listening to songs and podcasts every day on Spotify.
 
