@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 🔭 I’m currently building [Ajo App](https://ajoapp.vercel.app/).
-- 🌱 I’m currently learning more about AI agents and the MCP server.
+- 🌱 I’m currently learning about AI agents and MCP server.
 - 🤔 I’m looking for help with my side projects.
 - 💬 Ask me about Node.js or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
