@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatocode&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me :
-- 🔭 I’m currently building [Ajo App](https://ajoapp.vercel.app/).
+- 🔭 I’m currently building [Ajo App](https://ajo-app.vercel.app/).
 - 🌱 I’m currently learning about AI agents and MCP server.
 - 🤔 I’m looking for help with my side projects.
 - 💬 Ask me about Node.js or any tech-related stuff.
